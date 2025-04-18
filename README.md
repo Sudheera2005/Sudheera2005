@@ -23,12 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-### 🔥 My GitHub Stats Snapshot:
-<img src="https://raw.githubusercontent.com/Sudheera2005/Sudheera2005/main/assets/github-stats-snapshot.png" alt="GitHub Stats Overview" width="100%">
-
-<!-- Replace the src above with your hosted image URL or commit this image into your README repo and link accordingly -->
 
 ### 📈 Live GitHub Stats:
 <div align="center">
