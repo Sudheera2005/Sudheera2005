@@ -1,13 +1,13 @@
-<h1 align="left">Hi, I'm Sudheera Perera</h1>
+<h1 align="left">Hi🙌, I'm Sudheera Perera</h1>
 
 🎓 Aspiring Software Engineer | 💻 Tech Enthusiast | 🌐 Passionate about Coding, Cybersecurity & AI  
-📍 Sri Lanka | Portfolio: [sudheera.vercel.app](https://sudheera.vercel.app)
+📍 Sri Lanka | Portfolio: [Sudheera Perera]([https://sudheera.vercel.app](https://sudheera2005.github.io/protfolio/#home))
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheera-perera-576552297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudheera2005perera@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheera-perera-576552297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudheera2005perera@gmail.com)
+
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 📈 Live GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudheera2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudheera2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sudheera2005&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheera2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
