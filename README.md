@@ -1,7 +1,7 @@
 <h1 align="left">Hi🙌, I'm Sudheera Perera</h1>
 
 🎓 Aspiring Software Engineer | 💻 Tech Enthusiast | 🌐 Passionate about Coding, Cybersecurity & AI  
-📍 Sri Lanka | Portfolio: [Sudheera Perera]([https://sudheera.vercel.app](https://sudheera2005.github.io/protfolio/#home))
+📍 Sri Lanka | Portfolio: [Sudheera Perera](https://sudheera2005.github.io/protfolio/#home)
 
 ---
 
