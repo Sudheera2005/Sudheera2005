@@ -8,7 +8,6 @@
 
 - 🎓 Student at University of Staffordshire Technology
 - 💻 Passionate about **software development**,  **AI**,  **Automation**,  **Cyber security** , **Networking**
-- 🌱 Currently working on: [kreedx.com](#), [microsoftitprocommunity](#)
 - 📚 Currently learning:  
    `Python`  `Next.js` `JavaScript` `MySQL` `Networking`  `React` `PHP`
 - 🤝 Looking to collaborate on: **Open Source Projects**
