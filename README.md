@@ -1,13 +1,13 @@
 <h1 align="left">Hi🙌, I'm Sudheera Perera</h1>
 
-🎓 Aspiring Software Engineer | 💻 Tech Enthusiast | 🌐 Passionate about Coding, New technology, Cybersecurity & AI  
+🎓 Aspiring Developer | 💻 Tech Enthusiast | 🌐 Passionate about Coding, New technology, Cybersecurity & AI  
 📍 Sri Lanka | Portfolio: [Sudheera Perera](https://sudheera2005.github.io/protfolio/#home)
 
 ---
 ## 🙋‍♀️ About Me
 
 - 🎓 Student at University of Staffordshire Technology
-- 💻 Passionate about **software development**,  **AI**,  **Automation**,  **Cyber security** , **Networking**
+- 💻 Passionate about **Cyber security** , **software development**,  **AI**,  **Automation**,  **Networking**
 - 📚 Currently learning:  
    `Python`  `Next.js` `JavaScript` `MySQL` `Networking`  `React` `PHP`
 - 🤝 Looking to collaborate on: **Open Source Projects**
