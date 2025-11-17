@@ -7,7 +7,7 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 Student at University of Staffordshire Technology
-- 💻 Passionate about **Cyber security** , **software development**,  **AI**,  **Automation**,  **Networking**
+- 💻 Passionate about **Cyber Security** , **Software Development**,  **AI**,  **Automation**,  **Networking**
 - 📚 Currently learning:  
    `Python`  `Next.js` `JavaScript` `MySQL` `Networking`  `React` `PHP`
 - 🤝 Looking to collaborate on: **Open Source Projects**
