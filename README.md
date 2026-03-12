@@ -1,73 +1,121 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sudheera+Perera+👋;Cybersecurity+Undergrad+💻;Tech+Enthusiast+%26+Developer+🚀;Exploring+AI,+Web3+%26+Networking+🌐" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sudheera+Perera+👋;Cybersecurity+Student+%7C+Developer;Ethical+Hacker+%7C+Network+Engineer;Building+Tools+%26+Breaking+Systems;Exploring+AI+%2C+Web3+%26+Security" />
+
 </div>
 
-<h3 align="center">Securing systems, building solutions, and exploring the bleeding edge of tech.</h3>
+<h3 align="center">
+Cybersecurity • Software Engineering • Networking • Emerging Technologies
+</h3>
 
 <div align="center">
-  <a href="https://sudheera2005.github.io/protfolio/#home">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/sudheera-perera-576552297">💼 LinkedIn</a> • 
-  <a href="mailto:sudheerafierking@gmail.com">✉️ Email</a>
-</div>
 
----
+🌐 [Portfolio](https://sudheera2005.github.io/protfolio/#home) •
+💼 [LinkedIn](https://www.linkedin.com/in/sudheera-perera-576552297) •
+✉️ [sudheerafierking@gmail.com](mailto:sudheerafierking@gmail.com)
 
-## 👨‍💻 Who am I?
-
-I am a final-year Cybersecurity undergraduate in Sri Lanka with a deep passion for ethical hacking, network infrastructure, and software development. When I'm not breaking into intentionally vulnerable VMs or exploring Linux privilege escalation, I'm building modern web applications and IT solutions.
-
-- 💼 **Founder & Developer** at **S-Nexus IT**, delivering custom web apps, admin dashboards, and e-commerce platforms.
-- 🔭 **Currently working on:** A custom **Steganography CTF box** for an upcoming assignment and a dynamic-routing supply chain application.
-- 🌱 **Currently exploring:** Machine Learning (specifically generating 3D product models from 2D images), Blockchain integration, and off-the-grid peer-to-peer communication systems.
-- 🔐 **Core Interests:** Cryptography (DES/AES), Network Security, AI/ML, and Full-Stack Development.
-- 🤝 **Looking to collaborate on:** Open-source cybersecurity tools, Web3/Blockchain projects, and innovative ML models.
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-### 🛡️ Cybersecurity & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-05122A?style=for-the-badge&logo=cisco&logoColor=white)
-
-### 💻 Software Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Database, AI & Data Science
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sudheera2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheera2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sudheera2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
+# 👨‍💻 About Me
+
+🎓 Cybersecurity undergraduate from **Sri Lanka**
+🔐 Passionate about **ethical hacking, networking, and system security**
+💻 Building **secure software systems and automation tools**
+
+I enjoy understanding **how systems break**, then engineering solutions that make them **stronger, scalable, and secure**.
+
+### 🔎 Current Focus
+
+* 🔐 Ethical Hacking & Penetration Testing
+* 🌐 Network Security & Infrastructure
+* 🤖 AI + Cybersecurity Research
+* 🧠 Capture The Flag (CTF) Challenges
+* ⚡ Secure Full Stack Development
+
+---
+
+# 🚀 Current Projects
+
+🧩 **Steganography CTF Challenge Box**
+Designing an interactive CTF environment focused on modern steganography attacks.
+
+🚚 **Supply Chain & Delivery Tracking System**
+Full-stack logistics platform with role-based dashboards and live vehicle tracking.
+
+🛡 **Secure Web Platforms**
+Developing admin dashboards and business systems with strong authentication and security layers.
+
+---
+
+# 🛠 Tech Stack
+
+## 🔐 Cybersecurity & Networking
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Kali](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge\&logo=kalilinux)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge\&logo=wireshark)
+![Networking](https://img.shields.io/badge/Cisco_Networking-darkblue?style=for-the-badge\&logo=cisco)
+
+---
+
+## 💻 Programming & Development
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![.NET](https://img.shields.io/badge/.NET-darkviolet?style=for-the-badge\&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge\&logo=php)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge\&logo=nextdotjs)
+
+---
+
+## 🗄 Databases & Data
+
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+
+
+---
+
+# 📊 GitHub Statistics
+
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Sudheera2005&icon=3&color=6" alt="Profile Views" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudheera2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheera2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sudheera2005&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Areas of Interest
+
+🔐 Ethical Hacking
+🌐 Network Engineering
+🤖 Artificial Intelligence
+⛓ Blockchain & Web3
+🧩 CTF Security Challenges
+📡 Communcation Systems
+
+---
+
+# 📈 Profile Views
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=Sudheera2005&icon=5&color=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ *"The best way to understand a system is to break it — then rebuild with more advance and modent twchnology"*
+
 </div>
