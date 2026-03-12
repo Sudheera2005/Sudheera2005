@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sudheera+Perera+👋;Cybersecurity+Student+%7C+Developer;Ethical+Hacker+%7C+Network+Engineer;Building+Tools+%26+Breaking+Systems;Exploring+AI+%2C+Web3+%26+Security" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7002C&width=435&lines=Hi;I'm+Sudheera+Perera+%F0%9F%91%8B;Cybersecurity+Student;Ethical+Hacker;Breaking+Systems;Exploring+New+Technology+And+AI" alt="Typing SVG" /></a>
 
 </div>
 
