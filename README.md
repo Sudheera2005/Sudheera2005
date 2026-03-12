@@ -104,27 +104,8 @@ Developing admin dashboards and business systems with strong authentication and 
 🧩 CTF Security Challenges
 📡 Communcation Systems
 
----
 
-# 📈 Profile Views
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sudheera2005&color=blue&style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sudheera2005&label=Profile%20views&color=0e75b6&style=flat" />
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sudheera2005&label=VISITORS&color=00ffff&style=for-the-badge"/>
-
-</div>
 ---
 
 <div align="center">
