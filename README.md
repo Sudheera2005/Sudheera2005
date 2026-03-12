@@ -3,9 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Sudheera+Perera+👋;Cybersecurity+Student;Software+Developer;Ethical+Hacker;Exploring+AI+%26+Emerging+Technologies;Building+Secure+Systems+%26+Tools" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=700&size=35&duration=4500&pause=500&width=600&lines=Hi+I'm+Sudheera+Perera+%F0%9F%91%8B;+I'm+A+Cybersecurity+Student;+I'm+A+Developer;+I'm+a+Ethical+Hacker;I+Like+Exploring+New+Technology+And+AI;I+Like+To+Engineers+New+System" alt="Typing SVG" /></a>
 
 </div>
 
