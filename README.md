@@ -1,8 +1,7 @@
 <div align="center">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=700&size=700&duration=4500&pause=500&width=435&lines=Hi+I'm+Sudheera+Perera+%F0%9F%91%8B;Cybersecurity+Student;Developer;Ethical+Hacker;Exploring+New+Technology+And+AI;Breaking+Systems" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=700&size=50&duration=4500&pause=500&width=435&lines=Hi+I'm+Sudheera+Perera+%F0%9F%91%8B;Cybersecurity+Student;Developer;Ethical+Hacker;Exploring+New+Technology+And+AI;Breaking+Systems" alt="Typing SVG" /></a>
 
 </div>
 
