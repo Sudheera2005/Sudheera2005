@@ -1,8 +1,8 @@
 <div align="center">
 
-<div align="left">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=700&size=24&duration=4500&pause=500&color=00F7FF&width=435&lines=Hi;I'm+Sudheera+Perera+%F0%9F%91%8B;Cybersecurity+Student;Ethical+Hacker;Breaking+Systems;Exploring+New+Technology+And+AI" alt="Typing SVG" /></a>
-</div>
+
 
 </div>
 
@@ -110,10 +110,21 @@ Developing admin dashboards and business systems with strong authentication and 
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=Sudheera2005&icon=5&color=12"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Sudheera2005&color=blue&style=for-the-badge)
 
 </div>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sudheera2005&label=Profile%20views&color=0e75b6&style=flat" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sudheera2005&label=VISITORS&color=00ffff&style=for-the-badge"/>
+
+</div>
 ---
 
 <div align="center">
