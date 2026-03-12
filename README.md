@@ -1,6 +1,8 @@
 <div align="center">
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=700&size=24&duration=4500&pause=500&color=00F7FF&width=435&lines=Hi;I'm+Sudheera+Perera+%F0%9F%91%8B;Cybersecurity+Student;Ethical+Hacker;Breaking+Systems;Exploring+New+Technology+And+AI" alt="Typing SVG" /></a>
+</div>
 
 </div>
 
